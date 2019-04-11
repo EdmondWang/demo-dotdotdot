@@ -1,0 +1,23 @@
+{
+  "name": "demo-dotdotdot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdmondWang/demo-dotdotdot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdmondWang/demo-dotdotdot/issues"
+  },
+  "homepage": "https://github.com/EdmondWang/demo-dotdotdot#readme",
+  "dependencies": {
+    "dotdotdot-js": "^4.0.5"
+  }
+}
